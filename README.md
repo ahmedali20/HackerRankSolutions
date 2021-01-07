@@ -32,7 +32,7 @@ This repository consists of solutions to HackerRank **practice** and **tutorials
 ## Practices Completed
 
 * [Java](#Java)
-* [Problem Solving](#Problem-Solving)
+* [Algorithms](#Algorithms)
 
 ### Java
 
@@ -45,7 +45,7 @@ This repository consists of solutions to HackerRank **practice** and **tutorials
 |       Introduction       |                 [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem)                 | Essay | 10 |                                             [Java Output Formatting](https://github.com/ahmedali20/HackerRankSolutions/blob/main/Java/Java%20Output%20Formatting)      
 |       Introduction       |                 [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)                 | Essay | 10 |                                             [Java Loops I](https://github.com/ahmedali20/HackerRankSolutions/blob/main/Java/java%20loops%201)                                              |
 
-### Problem Solving
+### Algorithms
 
 |       Subdomain       |                 Challenge                 | Difficulty | Score |                                             Solution                                              |
 | :-------------------: | :---------------------------------------: | :--------: | :---: | :-----------------------------------------------------------------------------------------------: |
