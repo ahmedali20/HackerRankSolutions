@@ -19,6 +19,12 @@ This repository consists of solutions to HackerRank **practice** problems with *
 
 ## HackerRank Certificates
 
+</a>
+<a href="Skills%20Certification/Java%20(Basic)%20Certificate.png">
+    <img src="Badges/java_basic_skill.png" alt="Java (Basic) Certificate"/>
+</a>
+
+
 <p align="center">
     <a href="https://www.hackerrank.com/ahmedali20">
         <img alt="HackerRank Logo" src="https://hrcdn.net/fcore/assets/brand/h_mark_sm-966d2b45e3.svg">
