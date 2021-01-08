@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://https://www.hackerrank.com/ahmedali20">
+    <a href="https://www.hackerrank.com/ahmedali20">
         <img alt="HackerRank Logo | Ahmed Ali Profile" src="https://hrcdn.net/fcore/assets/brand/typemark_60x200-7435b42d20.svg" >
     </a>
 </p>
