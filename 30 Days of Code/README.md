@@ -5,3 +5,6 @@
 |   2   |              [Operators](https://www.hackerrank.com/challenges/30-operators/problem)                 |    Easy    |  30   |                   [Operators](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/03%20-%20Day%202%20-%20Operators.java)                   |
 |   3   |              [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements)                 |    Easy    |  30   |                   [Intro to Conditional Statements](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/04%20-%20Day%203%20-Intro%20to%20Conditional%20Statements.java)                   |
 |   4   |              [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)                 |    Easy    |  30   |                   [Class vs. Instance](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/05%20-%20Day%204%20-%20Class%20vs.%20Instance.java)                   |
+|   5   |              [Loops](https://www.hackerrank.com/challenges/30-loops/problem)                 |    Easy    |  30   |                   [Loops](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/06%20-%20Day%205%20-%20Loops.java)                   |
+
+
