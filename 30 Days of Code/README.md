@@ -7,5 +7,6 @@
 |   4   |              [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)                 |    Easy    |  30   |                   [Class vs. Instance](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/05%20-%20Day%204%20-%20Class%20vs.%20Instance.java)                   |
 |   5   |              [Loops](https://www.hackerrank.com/challenges/30-loops/problem)                 |    Easy    |  30   |                   [Loops](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/06%20-%20Day%205%20-%20Loops.java)                   |
 |   6   |              [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)                 |    Easy    |  30   |                   [Let's Review](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/07%20-%20Day%206%20-%20Let's%20Review.java)                   |
+|   6   |              [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)                 |    Easy    |  30   |                   [Arrays](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/08%20-%20Day%207%20-%20Arrays.java)                   |
 
 
