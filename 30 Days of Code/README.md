@@ -9,5 +9,6 @@
 |   6   |              [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)                 |    Easy    |  30   |                   [Let's Review](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/07%20-%20Day%206%20-%20Let's%20Review.java)                   |
 |   7   |              [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)                 |    Easy    |  30   |                   [Arrays](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/08%20-%20Day%207%20-%20Arrays.java)                   |
 |   8   |              [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)                 |    Easy    |  30   |                   [Dictionaries and Maps](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/09%20-%20Day%208%20-%20Dictionaries%20and%20Maps.java)                   |
+|   8   |              [Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem)                 |    Easy    |  30   |                   [Recursion 3](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/10%20-%20Day%209%20-%20Recursion%203.java)                   |
 
 
