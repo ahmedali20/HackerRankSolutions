@@ -93,13 +93,9 @@ This repository consists of solutions to HackerRank **practice** and **tutorials
 |   11   |              [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)                 |    Easy    |  30   |                   [2D Arrays](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/12%20-%20Day%2011%20-%202D%20Arrays.java)                   |
 |   12   |              [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)                 |    Easy    |  30   |                   [Inheritance](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/13%20-%20Day%2012%20-%20Inheritance.java)                   |
 |   13   |              [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem)                 |    Easy    |  30   |                   [Abstract Classes](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/14%20-%20Day%2013%20-%20Abstract%20Classes.java)                   |
-|   14   |              [Scope](https://www.hackerrank.com/challenges/30-scope/problem)                 |    Easy    |  30   |                   [Scope](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/15%20-%20Day%2014%20-%20Scope)                   |
-
-
-
-
-
-
+|   14   |              [Scope](https://www.hackerrank.com/challenges/30-scope/problem)                 |    Easy    |  30   |                   [Scope](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/15%20-%20Day%2014%20-%20Scope.java)                   |
+|   15   |              [Linked Lists](https://www.hackerrank.com/challenges/30-linked-list/problem)                 |    Easy    |  30   |                   [Linked Lists](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/16%20-%20Day%2015%20-%20Linked%20List.java)                   |
+|   16   |              [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)                 |    Easy    |  30   |                   [Exceptions - String to Integer](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/17%20-%20Day%2016%20-%20Exceptions%20-%20String%20to%20Integer.java)                   |
 
 
 
