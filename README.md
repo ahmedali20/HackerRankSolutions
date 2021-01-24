@@ -98,6 +98,8 @@ This repository consists of solutions to HackerRank **practice** and **tutorials
 |   16   |              [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)                 |    Easy    |  30   |                   [Exceptions - String to Integer](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/17%20-%20Day%2016%20-%20Exceptions%20-%20String%20to%20Integer.java)                   |
 |   17   |              [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem)                 |    Easy    |  30   |                   [More Exceptions](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/18%20-%20Day%2017%20-%20More%20Exceptions.java)                   |
 |   18   |              [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem)                 |    Easy    |  30   |                   [Queues and Stacks](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/19%20-%20Day%2018%20-%20Queues%20and%20Stacks.java)                   |
+|   19   |              [Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem)                 |    Easy    |  30   |                   [Interfaces](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/20%20-%20Day%2019%20-%20Interfacers.java)                   |
+
 
 
 
