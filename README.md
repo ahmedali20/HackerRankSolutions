@@ -100,6 +100,8 @@ This repository consists of solutions to HackerRank **practice** and **tutorials
 |   18   |              [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem)                 |    Easy    |  30   |                   [Queues and Stacks](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/19%20-%20Day%2018%20-%20Queues%20and%20Stacks.java)                   |
 |   19   |              [Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem)                 |    Easy    |  30   |                   [Interfaces](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/20%20-%20Day%2019%20-%20Interfacers.java)                   |
 |   20   |              [Sorting](https://www.hackerrank.com/challenges/30-sorting/problem)                 |    Easy    |  30   |                   [Sorting](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/21%20-%20Day%2020%20-%20Sorting.java)                   |
+|   21   |              [Generics](https://www.hackerrank.com/challenges/30-generics/problem)                 |    Easy    |  30   |                   [Generics](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/22%20-%20Day%2021%20-%20Generics.java)                   |
+
 
 
 
