@@ -103,6 +103,7 @@ This repository consists of solutions to HackerRank **practice** and **tutorials
 |   21   |              [Generics](https://www.hackerrank.com/challenges/30-generics/problem)                 |    Easy    |  30   |                   [Generics](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/22%20-%20Day%2021%20-%20Generics.java)                   |
 |   22   |              [Binary Search Tree](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)                 |    Easy    |  30   |                   [Binary Search Tree](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/23%20-%20Day%2022%20-%20Binary%20Search%20Tree.java)                   |
 |   23   |              [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem)                 |    Easy    |  30   |                   [BST Level-Order Traversal](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/24%20-%20Day%2023%20-%20BST%20Level-Order%20Traversal.java)                   |
+|   24   |              [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)                 |    Easy    |  30   |                   [More Linked Lists](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/25%20-%20Day%2024%20-%20More%20Linked%20Lists.java)                   |
 
 
 
