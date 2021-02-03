@@ -17,6 +17,8 @@ This repository consists of solutions to HackerRank **practice** and **tutorials
 
 ## HackerRank Badges
 
+![30 Days of Code](https://github.com/ahmedali20/HackerRankSolutions/blob/main/Badges/30_days_of_code_5_star.png)
+
 ## HackerRank Certificates
 
 </a>
