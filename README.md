@@ -107,6 +107,9 @@ This repository consists of solutions to HackerRank **practice** and **tutorials
 |   25   |              [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)                 |    Medium    |  30   |                   [Running Time and Complexity](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/26%20-%20Day%2025%20-%20Running%20Time%20and%20Complexity.java)                   |
 |   26   |              [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem)                 |    Easy    |  30   |                   [Nested Logic](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/27%20-%20Day%2026%20-%20Nested%20Logic.java)                   |
 |   27   |              [Testing](https://www.hackerrank.com/challenges/30-testing/problem)                 |    Easy    |  30   |                   [Testing](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/28%20-%20Day%2027%20-%20Testing.java)                   |
+|   28   |              [RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem)                 |    Medium    |  30   |                   [RegEx, Patterns, and Intro to Databases](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/29%20-%20Day%2028%20-%20RegEx,%20Patterns,%20and%20Intro%20to%20Databases.java)                   |
+|   29   |              [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem)                 |    Medium    |  30   |                   [Bitwise AND](https://github.com/ahmedali20/HackerRankSolutions/blob/main/30%20Days%20of%20Code/Java/30%20-%20Day%2029%20-%20Bitwise%20AND.java)                   |
+
 
 
 
